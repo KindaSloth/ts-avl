@@ -7,6 +7,8 @@
 ## Example of usage
 
 ```ts
+import { Avl } from "ts-avl";
+
 const tree = new Avl();
 
 tree.insert("1", { name: "tatu", age: 20 });

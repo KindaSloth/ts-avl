@@ -10,6 +10,7 @@
     "skipLibCheck": true,
     "noImplicitAny": true,
     "allowJs": false,
-    "sourceMap": false
+    "sourceMap": false,
+    "declaration": true
   }
 }

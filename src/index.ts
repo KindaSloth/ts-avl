@@ -6,7 +6,7 @@ type AvlNode<T> = {
   height: number;
 };
 
-class Avl<T> {
+export class Avl<T> {
   root: AvlNode<T> | null;
 
   constructor() {

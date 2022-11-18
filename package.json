@@ -6,8 +6,7 @@
   "author": "kinda-silly",
   "license": "MIT",
   "scripts": {
-    "build": "tsc",
-    "publish": "tsc && yarn publish"
+    "build": "tsc"
   },
   "devDependencies": {
     "typescript": "^4.9.3"

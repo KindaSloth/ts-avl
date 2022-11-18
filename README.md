@@ -1,10 +1,18 @@
 # Ts-Avl
 
-## AVL Tree gif
-
 ![YieLsCqeuV-avlbal](https://user-images.githubusercontent.com/55771765/202624240-54bb6f2f-5b91-4a59-a51e-ad80b0778c51.gif)
 
-## Example of usage
+## How to Install
+
+```ts
+$ yarn add ts-avl
+
+# or
+
+$ npm i ts-avl
+```
+
+## Usage
 
 ```ts
 import { Avl } from "ts-avl";

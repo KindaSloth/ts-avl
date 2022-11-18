@@ -2,7 +2,7 @@
 
 ## AVL Tree gif
 
-TODO: add gif here
+![YieLsCqeuV-avlbal](https://user-images.githubusercontent.com/55771765/202624240-54bb6f2f-5b91-4a59-a51e-ad80b0778c51.gif)
 
 ## Example of usage
 
